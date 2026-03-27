@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "visalogix",
+  "private_key_id": "cc73102fa20a1ad09290b44e84e6babd7d09afba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDCvhSIcAb/imXy\naHLh05WDydBVROfOKTmqAF0OfLJkr4FOy07cvgZkl7CJG8S/T942NLXsRx6mgnR1\nE/uN16bQdLYaW+Bbb/12NJoCyCs1YI481+nGrYRl221giY9fnXvs4mIUwk3tg7LP\n4dN8iP29nPUmxT8XvKimesct9Dw4WnlODR99nBqGZW6gEWbaxezrKT+o0TU5vTfV\nR3apWmhY+HTXBswaEY9cdEUEHF3qyJKECKsbOfXe50QaOBTJELHCaQKwSeFhujel\nrNL/lYmkYYNNHdgkhMiB7+cWS1Tet8SmnpCmeplnY5foqcAw7W1fRbVSP2WXZYM1\nhI3OEVAbAgMBAAECggEAVcWkg4db/bc2ObM5Ti+DvdzobnX/5vSPWkn4soXHiMMo\nH805+c2UQT/yWCEr4dtKkvNaYSvd2xbANkTL2ehup4eQIUHwKjXEHAkFAE6rgUH6\nw9+RLpmEI9ymawuLY2CYkXgQHPaLnh4QZrEfFc28fIQiEaZ0qH7GhTS0f4//6g1i\nh/d2pJnPc/DFrtLrnoTisIEX4mtpVMuHdJsfE+82+aCNb7om+WvDS/KYloM/HDqb\nVDCz+L3MWibtctNnYmazooDJc5q3phbwqjG52vawMLelwFQKqu2Grz8Y0MzDu5li\nzdiQXpuTYUlu826ybBMZM6M79SiaUUDcv9MK4xJrKQKBgQDhpgRmvOzb1TFf+yzR\nCgWKfn8Gltcp7r3+tPbz22NU3N8nsLvSEJq1C5iURgGrid+OcwU48WQkDhM8E2cu\nHfnncgqxLFG5gl0y02/jf3MHYaZVrFNf8/i1kOldRO+HbpwmXJoG9hbrzEmDzIG6\nG3emR6L2cDQmChiFUkZNqC4GfQKBgQDc79hqmX9zN0Nize7FiPHTmwZCuU/e0pXk\n6kMxVagCy4GLp6hr+qoZglarmQHbwanLKmMT21R750XbpiNDr9C8GGbwekq7SKP4\n1E9UQzWulW0MVaWTNFmmJikwQIHNBteZb5C1Xd+1nZ0Iwk8VZL5AbgF8jJij9S4l\nUkrLMXM8dwKBgAidU/GwKMLDwtzNNArO/SMqbSMNQy2gpbRBqGPq7kHhJMvZHXKJ\nm75psOuIOKwZ2WUQ0xQ3cwFFYEqc2wWRs2a4ndvhu0T/yxsTo2PmC7gubDE9IPm6\n0LXt0Fr1NMfQ2zlDs8WsQ3fBFtVnS1SVk93PQlNyOStymzkLyQ9R6l/pAoGAeWEX\nj7EW8RCKZ+zlYgbTfMKtlNjERZGCIkqFccQyUp7FZBlPEUucSflubkXYXIgwJVr7\nJbyY1J2BpqPGufgMgFoTq8gz6GKHGzxg/NUT1/9l8qHXHmFjY0GR3V2DMkWxCy3c\n3ZdeQSP/UwGVexZm43TMQkXn0iPwHzbvumRHgA8CgYASOraImIvKpPSZV5rRAGVK\nxJcj6bGPRaSqDRrSWtxkJ7ywNJOx6ukRIy0KzO0ULVQIDlXXILcnkGH/PBLYMvrH\nLCSG3Xoc85wZ05Yo8rpLZq+wplI2729Zf90fZUWGE7L7eAsB8UdbkeUIamXVmuaD\ndkm3ymL4bCNQYPiHQVwXDA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "github-actions-deploy@visalogix.iam.gserviceaccount.com",
+  "client_id": "116712976152510359389",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/github-actions-deploy%40visalogix.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

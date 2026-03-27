@@ -1,0 +1,47 @@
+# Node modules
+node_modules
+npm-debug.log
+
+# Git
+.git
+.gitignore
+
+# Build artifacts
+dist
+build
+*.tsbuildinfo
+
+# Environment files
+.env*
+!.env.example
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Documentation
+README.md
+*.md
+
+# CI/CD
+.github
+.gitlab-ci.yml
+
+# Testing
+coverage
+.nyc_output
+
+# Logs
+logs
+*.log
+
+# GCP credentials
+*.key.json
+gcp-key.json
+service-account-key.json
