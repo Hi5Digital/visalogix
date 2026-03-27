@@ -37,6 +37,9 @@ gcloud services enable iam.googleapis.com
 
 # Enable Resource Manager API
 gcloud services enable cloudresourcemanager.googleapis.com
+
+# Enable Artifact Registry API
+gcloud services enable artifactregistry.googleapis.com
 ```
 
 ---
@@ -76,6 +79,11 @@ gcloud projects add-iam-policy-binding visalogix \
 gcloud projects add-iam-policy-binding visalogix \
     --member="serviceAccount:github-actions-deploy@visalogix.iam.gserviceaccount.com" \
     --role="roles/viewer"
+
+# Artifact Registry Writer - to push Docker images
+gcloud projects add-iam-policy-binding visalogix \
+    --member="serviceAccount:github-actions-deploy@visalogix.iam.gserviceaccount.com" \
+    --role="roles/artifactregistry.writer"
 ```
 
 ### 2.3 Create and Download Service Account Key
